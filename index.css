@@ -1,0 +1,18 @@
+img {
+  width: 250px;
+  height: 150px;
+  margin: 0.5px;
+}
+
+#sortable > li {
+  list-style-type: none;
+}
+
+#puzzle-box {
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+  border: 10px solid black;
+  border-radius: 5px;
+  width: 526.5px;
+}
